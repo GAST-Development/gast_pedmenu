@@ -1,5 +1,7 @@
 Config = {}
 
+Config.VersionCheck = true
+
 Config.Locale = "cs"
 
 Config.Command = "setped"

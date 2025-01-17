@@ -18,7 +18,7 @@ local function CheckVersion()
                 print('^1['..resourceName..'] ^3Current Version: ^1' ..currentVersion.. '^0')
                 print('^1['..resourceName..'] ^3Latest Version: ^2' ..latestVersion.. '^0')
                 print('^1['..resourceName..'] ^3Download the latest release from https://github.com/GAST-Development/'..resourceName..'/releases^0')
-                print('^1['..resourceName..'] ^3For more information about this update visit our https://discord.gg/D8cuU8r8WA^0')
+                print('^1['..resourceName..'] ^3For more information about this update visit our https://discord.gg/D8cuU8r8WA ^0')
             end
         end, 'GET')
     end)

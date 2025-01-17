@@ -6,7 +6,7 @@ lua54 'yes'
 
 author 'G.A.S.T. Development - andrejkm'
 
-description 'Ped Menu script for ped spawning',
+description 'Ped Menu script for ped spawning'
 
 version 'v1.0.0'
 
