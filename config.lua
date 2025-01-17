@@ -16,7 +16,6 @@ Config.Peds = {
 
 Config.AllowedPlayers = {
     "steam:11000010abcdef",
-    "steam:110000115e4868a",
     "license:1234567890abcdef1234567890abcdef"
 }
 
